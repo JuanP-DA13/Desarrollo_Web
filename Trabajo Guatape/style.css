@@ -1,0 +1,53 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: white;
+}
+
+.card{
+    font-family: Arial;
+    background-color: #87CEEB;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    width: 800px;
+    height: auto;
+    text-align: center;
+    align-items: center;
+}
+
+
+h2{
+    margin-top: 20px;
+    font-size: 24px;
+    
+    
+}
+.description{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 18px;
+    color: #f7f7f7;
+}
+
+.information{
+    font-size: 16px;
+    color: #333333;
+}
+
+.ubicacion{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    color: #333333;
+}
+
+.clima{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    color: #333333;
+}
+
+
